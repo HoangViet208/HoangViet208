@@ -1,6 +1,7 @@
-## Hi there 👋
-
-<!--
-**HoangViet208/HoangViet208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+# Hi there 👋 [Dang Hoang Viet](https://github.com/HoangViet208)
+- Hi , I'm Viet, a student of FPT University at Software Engineering major.
+- Open and friendly
+- Love to learn new things, especially things related to Frontend stacks.
+  
+## Talking about personal stuffs:
+-
